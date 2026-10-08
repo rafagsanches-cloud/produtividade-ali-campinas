@@ -1,0 +1,44 @@
+indicador,valor,descricao
+encontros_concluintes,9,número de encontros das empresas concluintes
+encontros_nao_concluintes,"2,3,6,7,7",encontro em que as demais pararam
+n_concluintes,24,
+mediana_t0,4873.474999999999,
+mediana_tf,5863.0,
+var_mediana_%,20.304300319587163,
+media_t0,5757.379320804196,
+media_tf,9411.093272306398,
+var_media_%,63.461407489681385,
+n_variacao_individual,23,empresas com produtividade inicial positiva
+mediana_variacoes_%,30.956138645934562,
+media_variacoes_%,96.74150548799894,
+media_aparada_10%,83.68066976108062,
+media_winsorizada_10%,90.52923826165454,
+empresas_com_ganho_R$,20,
+empresas_com_queda_R$,4,
+wilcoxon_p,0.001092672348022461,Wilcoxon pareado (exact)
+teste_do_sinal_p,0.001543879508972168,
+efeito_r_rank_bisserial,0.7266666666666667,
+hodges_lehmann_R$,2679.8846666666686,
+hodges_lehmann_ic95_inf,1118.75,
+hodges_lehmann_ic95_sup,4459.3419695075745,
+shapiro_wilk_p_diferencas,0.00017893413938106933,normalidade das diferenças (justifica teste não paramétrico)
+sensibilidade_sem_atipicas_p,0.000255584716796875,"sem E4367, E4664"
+sensibilidade_sem_atipicas_n,22,
+regressao_media_rho,-0.3053359683794466,Spearman entre produtividade inicial e variação %
+regressao_media_p,0.15654806135999524,
+ipca_2025_2ºsem_%,1.2352753993890353,
+ipca_2026_1ºsem_%,3.3644914183595276,
+deflacionada_mediana_variacoes_%,26.69354519038849,
+deflacionada_empresas_com_ganho,19,
+deflacionada_wilcoxon_p,0.002245783805847168,
+faturamento_agregado_var_%,48.651554765011575,
+custos_agregados_var_%,22.44212674326178,
+pessoas_t0,163.0,
+pessoas_tf,158.0,
+pessoas_var_%,-3.0674846625766916,
+va_por_pessoa_var_%,74.96459059157243,valor adicionado total por pessoa
+va_por_pessoa_quadro_fixo_var_%,69.59757861023586,mantido o quadro de T0
+empresas_sem_mudanca_de_quadro,18,
+atrito_mediana_t0_nao_concluintes,5572.212631578947,n = 3
+atrito_mediana_t0_concluintes,4873.474999999999,
+atrito_mann_whitney_p,0.7432478632478631,

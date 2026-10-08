@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Se usar este código, cite o artigo e o repositório."
+title: "Produtividade e Radar de Inovação nas MPE industriais de Campinas (SP): código e metodologia"
+authors:
+  - family-names: "Sanches"
+    given-names: "Rafael Grecco"
+    affiliation: "Agente Local de Inovação (ALI) N6 – Sebrae São Paulo"
+version: "1.0.0"
+date-released: "2026-10-08"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Desafios da Indústria de Transformação: Resultados do Programa ALI Produtividade em Micro e Pequenas Empresas de Campinas (SP)"
+  authors:
+    - family-names: "Sanches"
+      given-names: "Rafael Grecco"
+  year: 2026

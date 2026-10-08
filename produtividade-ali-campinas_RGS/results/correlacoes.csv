@@ -1,0 +1,29 @@
+recorte,descricao,dimensao,n,rho_spearman,ic95_inf,ic95_sup,p_permutacao,tau_b_kendall,p_kendall,nota,q_benjamini_hochberg
+A,ganho no Radar x variação % da produtividade,Controles gerenciais,17,0.1774,-0.3857,0.7068,0.492,0.1534,0.455,,0.649
+A,ganho no Radar x variação % da produtividade,Gestão de operações,17,0.3763,-0.1321,0.7432,0.1427,0.2945,0.134,,0.5943
+A,ganho no Radar x variação % da produtividade,Marketing,17,-0.3475,-0.734,0.171,0.1698,-0.262,0.1956,,0.5943
+A,ganho no Radar x variação % da produtividade,Práticas sustentáveis,16,0.0063,-0.5635,0.5139,0.9899,0.0,1.0,,0.9899
+A,ganho no Radar x variação % da produtividade,Práticas de inovação,17,-0.2867,-0.7358,0.2758,0.2644,-0.2324,0.2443,,0.617
+A,ganho no Radar x variação % da produtividade,Transformação digital,17,0.2369,-0.2762,0.6374,0.3621,0.1698,0.3835,,0.6337
+A,ganho no Radar x variação % da produtividade,Radar médio,17,0.1543,-0.37,0.6163,0.5563,0.1222,0.5057,,0.649
+A2,ganho no Radar x variação da produtividade (R$),Controles gerenciais,18,0.0616,-0.4334,0.5162,0.8033,0.0428,0.8296,,0.9687
+A2,ganho no Radar x variação da produtividade (R$),Gestão de operações,18,0.5328,-0.0308,0.8702,0.023,0.4259,0.0255,,0.1613
+A2,ganho no Radar x variação da produtividade (R$),Marketing,18,-0.2643,-0.6841,0.2675,0.2897,-0.2023,0.3029,,0.724
+A2,ganho no Radar x variação da produtividade (R$),Práticas sustentáveis,17,-0.1386,-0.5831,0.3576,0.5942,-0.0776,0.693,,0.9687
+A2,ganho no Radar x variação da produtividade (R$),Práticas de inovação,18,-0.2586,-0.6748,0.2527,0.3103,-0.1972,0.3068,,0.724
+A2,ganho no Radar x variação da produtividade (R$),Transformação digital,18,0.0129,-0.4715,0.4731,0.9601,0.0224,0.905,,0.9687
+A2,ganho no Radar x variação da produtividade (R$),Radar médio,18,0.0104,-0.4682,0.4895,0.9687,0.0203,0.9088,,0.9687
+B,Radar em TF x produtividade em TF,Controles gerenciais,18,-0.0616,-0.5526,0.4526,0.8027,-0.0428,0.8296,,0.8027
+B,Radar em TF x produtividade em TF,Gestão de operações,18,0.2344,-0.2781,0.6704,0.3477,0.1734,0.3565,,0.7804
+B,Radar em TF x produtividade em TF,Marketing,18,-0.1484,-0.6005,0.303,0.5574,-0.1132,0.5546,,0.7804
+B,Radar em TF x produtividade em TF,Práticas sustentáveis,18,-0.227,-0.6051,0.2242,0.3587,-0.1705,0.3611,,0.7804
+B,Radar em TF x produtividade em TF,Práticas de inovação,18,-0.2661,-0.7243,0.2886,0.2829,-0.2035,0.2807,,0.7804
+B,Radar em TF x produtividade em TF,Transformação digital,18,0.1648,-0.3288,0.5877,0.5157,0.1271,0.4988,,0.7804
+B,Radar em TF x produtividade em TF,Radar médio,18,-0.1063,-0.4834,0.374,0.6721,-0.041,0.8181,,0.7841
+C,Radar em T0 x produtividade em T0,Controles gerenciais,18,,,,,,,sem variação,
+C,Radar em T0 x produtividade em T0,Gestão de operações,18,0.2155,-0.4143,0.6732,0.4262,0.1808,0.3743,,0.5328
+C,Radar em T0 x produtividade em T0,Marketing,18,-0.0341,-0.5189,0.4783,0.9388,-0.0286,0.8883,,0.9388
+C,Radar em T0 x produtividade em T0,Práticas sustentáveis,17,-0.368,-0.7945,0.2049,0.1616,-0.3092,0.141,,0.5328
+C,Radar em T0 x produtividade em T0,Práticas de inovação,18,-0.2442,-0.6486,0.2582,0.3644,-0.2049,0.3139,,0.5328
+C,Radar em T0 x produtividade em T0,Transformação digital,18,,,,,,,sem variação,
+C,Radar em T0 x produtividade em T0,Radar médio,18,-0.2689,-0.7435,0.2867,0.2839,-0.2191,0.2644,,0.5328

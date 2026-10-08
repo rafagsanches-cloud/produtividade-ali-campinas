@@ -1,0 +1,8 @@
+dimensao,n,media_t0,media_tf,ganho_medio,melhoraram,iguais,pioraram,p_wilcoxon,significativo_bonferroni
+Controles gerenciais,18,2.0,3.3889,1.3889,17,1,0,0.0002,True
+Gestão de operações,18,1.8333,3.3333,1.5,16,2,0,0.0003,True
+Marketing,18,1.8889,3.6667,1.7778,18,0,0,0.0001,True
+Práticas sustentáveis,17,1.7647,3.0588,1.2941,13,4,0,0.0011,True
+Práticas de inovação,18,1.8333,2.8333,1.0,13,5,0,0.001,True
+Transformação digital,18,2.0,3.6667,1.6667,15,3,0,0.0005,True
+Radar médio,18,1.8889,3.3241,1.4352,18,0,0,0.0002,
